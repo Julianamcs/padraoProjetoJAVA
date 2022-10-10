@@ -24,3 +24,6 @@ Conhecer a Gang of Four (GoF) e qual a sua importância na comunidade de desenvo
 Arquitetos e desenvolvedores interessados em se aprofundar nos padrões de projetos mais populares
 Desenvolvedores interessados em conhecer padrões de mercado para resolver diversos problemas já conhecidos e catalogados
 Desenvolvedores e Arquitetos que desejam compartilhar deste vocabulário comum durante discussões técnicas
+
+
+Baeeado no curso : https://www.udemy.com/course/padroes-de-projeto-em-java-na-pratica/learn/lecture/24464844#overview
